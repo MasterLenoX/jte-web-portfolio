@@ -35,7 +35,7 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: "Keynote Business Solutions Webpage",
+      title: "Keynote Webpage",
       src: keynotewebpage
     },
     {
@@ -69,14 +69,13 @@ const Portfolio = () => {
       <p className='text-xl py-6'>Check out some of my workplace</p>
     </div>
 
-      <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0'>
+      <div className='grid sm:grid-cols-4 md:grid-cols-5 gap-8 px-12 sm:px-0'>
         {
           portfolios.map(({id, title, src}) => (
             <div key={id} className='shadow-md shadow-blue-700 rounded-xl'>
               <img src={src} alt="" className='rounded-md duration-200 hover:scale-110'/>
-              
               <div className='flex items-center justify-center'>
-                <p className='text-md py-6'>{title}</p>                            
+                <p className='text-sm py-7'>{title}</p>
               </div>
             </div>  
           ))
