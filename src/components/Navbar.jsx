@@ -17,11 +17,11 @@ const Navbar = () => {
     },
     { 
       id: 3, 
-      link: 'portfolio'
+      link: 'gallery'
     },
     { 
       id: 4, 
-      link: 'timeline'
+      link: 'portfolio'
     },
     { 
       id: 5, 
@@ -29,6 +29,10 @@ const Navbar = () => {
     },
     { 
       id: 6, 
+      link: 'timeline'
+    },
+    { 
+      id: 7, 
       link: 'contact'
     }
   ]
@@ -37,7 +41,7 @@ const Navbar = () => {
   return (
     <div className='flex justify-between items-center w-full h-20 px-5 text-white bg-stone-950 fixed'>
       <div>
-        <h2 className="text-5xl text-blue-500">MASTER<span className="text-5xl font-signature text-white ml-2">LENOX</span></h2>
+        <h2 className="text-4xl text-blue-500">MASTER<span className="text-4xl font-signature text-white ml-2">LENOX</span></h2>
       </div>
 
       <ul className="hidden md:flex">
