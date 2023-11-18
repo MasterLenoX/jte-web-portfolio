@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 // import {Button, Modal }from 'react-bootstrap';
-import Code from '../assets/img/Lifestyle/code.jpg'
+// import Code from '../assets/img/Lifestyle/code.jpg'
 
 
 const About = () => {
