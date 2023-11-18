@@ -22,7 +22,7 @@ const Home = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = ["Web Developer", "Graphic Designer", "Web Designer", "Programmer", "Web/Software QA Tester"];
+  const toRotate = ["Junior Web Developer", "Graphic Designer", "Junior Web Designer", "Junior Programmer", "Software QA Tester"];
   const period = 2000;
 
   useEffect(() => {
@@ -69,7 +69,7 @@ const Home = () => {
                 <h1 className='text-4xl sm:text-7xl font-bold  text-white'>My Name is <span className='text-4xl sm:text-7xl font-bold text-blue-500'> Leon James Emperado</span></h1>
                 <br />
                 <h4 className='text-2xl sm:text-2xl font-bold text-gray-400'>
-                  {` I'm Junior  `} <span className='wrap text-blue-300'> {text} </span>
+                  {` I'm `} <span className='wrap text-blue-300'> {text} </span>
                 </h4>
                 <p className='text-gray-200 text-lg py-4 max-w-md'>
                   I am a qualified and professional
