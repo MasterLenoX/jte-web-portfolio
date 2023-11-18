@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jte-web-portfolio/static/css/main.6a8a5103.css",
-    "main.js": "/jte-web-portfolio/static/js/main.3a8b16ae.js",
+    "main.js": "/jte-web-portfolio/static/js/main.b84d2aac.js",
     "static/media/python.png": "/jte-web-portfolio/static/media/python.91072be85b01ef0961a8.png",
     "static/media/HeroImg5.png": "/jte-web-portfolio/static/media/HeroImg5.d6783ae8091c1a206876.png",
     "static/media/virtuallypossiblewebpage.png": "/jte-web-portfolio/static/media/virtuallypossiblewebpage.2e91a61695fb2786c884.png",
@@ -19,7 +19,6 @@
     "static/media/reactSmooth.jpg": "/jte-web-portfolio/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
     "static/media/navbar.jpg": "/jte-web-portfolio/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
     "static/media/installNode.jpg": "/jte-web-portfolio/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
-    "static/media/code.jpg": "/jte-web-portfolio/static/media/code.7cab25bc22ecbf64055d.jpg",
     "static/media/aspdotnet.png": "/jte-web-portfolio/static/media/aspdotnet.b7216d79a78de7a95d90.png",
     "static/media/react.png": "/jte-web-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/jte-web-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -38,10 +37,10 @@
     "static/media/revicons.woff": "/jte-web-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/jte-web-portfolio/index.html",
     "main.6a8a5103.css.map": "/jte-web-portfolio/static/css/main.6a8a5103.css.map",
-    "main.3a8b16ae.js.map": "/jte-web-portfolio/static/js/main.3a8b16ae.js.map"
+    "main.b84d2aac.js.map": "/jte-web-portfolio/static/js/main.b84d2aac.js.map"
   },
   "entrypoints": [
     "static/css/main.6a8a5103.css",
-    "static/js/main.3a8b16ae.js"
+    "static/js/main.b84d2aac.js"
   ]
 }
