@@ -1,5 +1,5 @@
-import { Container, Row, Col } from "react-bootstrap";
-import Carousel from "react-multi-carousel";
+// import { Container, Row, Col } from "react-bootstrap";
+// import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import html from "../assets/img/skills/html.png";
 import css from "../assets/img/skills/css.png";

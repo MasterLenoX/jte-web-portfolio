@@ -61,7 +61,7 @@ const Gallery = () => {
           <Glide height={400} width={700}>
             {
               items.map(({src}) => (
-                <img src={src}/>
+                <img src={src} alt={altText}/>
               ))
             }
           </Glide>
