@@ -56,7 +56,7 @@ const Timeline = () => {
     },
     {
       id: 8,
-      title: "Oct 2023 - Dec 2023",
+      title: "Oct 2023 - Nov 2023",
       cardTitle: "Web Developer Part-time (Contract)",
       cardSubtitle:"Keynote Business Solutions Inc. | Tomball, Texas, USA",
       cardDetailedText: "Building Website using Vue.js, React.js, HTML, CSS, JavaScript, PHP, Laravel, and/or Wordpress | Uploading webhosting using GitHub, Firebase, and/or Netlify"
