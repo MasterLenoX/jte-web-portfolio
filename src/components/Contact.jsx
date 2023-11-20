@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div name='contact' className="w-full h-screen bg-gradient-to-b from-slate-950 via-slate-950 to-black py-4 text-white">
+    <div name='contact' className="w-full h-screen bg-gradient-to-b from-black via-black to-blue-950 py-4 text-white">
       
 
         <div className='flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full'>
@@ -35,7 +35,7 @@ const Contact = () => {
                 className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'
               ></textarea>        
 
-              <button className='text-white bg-gradient-to-b from-cyan-900 to-blue-950 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300'>SEND</button>      
+              <button className='text-white bg-gradient-to-b from-cyan-900 to-blue-950 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300'>Submit</button>      
             </form>
           </div>
 

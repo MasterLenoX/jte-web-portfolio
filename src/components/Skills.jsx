@@ -159,7 +159,7 @@ const Skills = () => {
     // }
   ];
   return (
-    <div name='skills' className='h-screen w-full bg-gradient-to-b from-gray-950 via-gray-950 to-indigo-950'>
+    <div name='skills' className='h-screen w-full bg-gradient-to-b from-gray-950 via-gray-950 to-slate-950'>
       
       <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
       <div className="col">

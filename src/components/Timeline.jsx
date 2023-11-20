@@ -37,34 +37,35 @@ const Timeline = () => {
       title: "Feb 2020 - Mar 2020",
       cardTitle: "Intern | Web Developer Trainee",
       cardSubtitle:"ZANK POS Enterprises inc. | Baliuag, Bulacan, Philippines",
-      cardDetailedText: "learning JOOMLA, WordPress, HTML/CSS/JavaScript/Nodejs/Bootstrap | Testing & Debugging | Stop Internship during COVID-19"
+      cardDetailedText: "Learning Joomla, WordPress, Bootstrap, HTML, CSS, Ajax, JavaScript, PHP, Node.js | Helping Senior to fix databases and websites | Testing software with or without bugs encountered | Stop Internship during COVID-19"
     },
     {
       id: 6,
       title: "Aug 2021 - Apr 2023",
       cardTitle: "Junior Programmer",
       cardSubtitle:"ACLT Computing Inc | Makati City, Manila, Philippines",
-      cardDetailedText: "learning ASP.Net C# MVC, Azure SQL, Telerik Reporting | Testing & Debugging | Scripting | DevOps Git"
+      cardDetailedText: "learning ASP.Net C# MVC, Azure SQL, Telerik Reporting | Testing & Debugging | Scripting | DevOps Git | Database administration and website design | Built the logic for a streamlined ad-serving platform that scaled | Testing System and Errors fix "
     },
     {
       id: 7,
       title: "Nov 2021 - Apr 2023",
       cardTitle: "Software QA Tester",
       cardSubtitle:"ACLT Computing Inc. | Makati City, Manila, Philippines",
-      cardDetailedText: "learning ASP.Net C# MVC, Azure SQL, Telerik Reporting | Testing & Debugging | Scripting | DevOps Git"
+      cardDetailedText: "learning ASP.Net C# MVC, Azure SQL, Telerik Reporting | Testing & Debugging | Scripting | DevOps Git | Database administration and website design | Built the logic for a streamlined ad-serving platform that scaled | Testing System and Errors fix "
+
     },
     {
       id: 8,
-      title: "Oct 2023 - Present",
+      title: "Oct 2023 - Dec 2023",
       cardTitle: "Web Developer Part-time (Contract)",
       cardSubtitle:"Keynote Business Solutions Inc. | Tomball, Texas, USA",
-      cardDetailedText: "learning ASP.Net C# MVC, Azure SQL, Telerik Reporting | Testing & Debugging | Scripting | DevOps Git"
+      cardDetailedText: "Building Website using Vue.js, React.js, HTML, CSS, JavaScript, PHP, Laravel, and/or Wordpress | Uploading webhosting using GitHub, Firebase, and/or Netlify"
     }
   ];
 
 
   return (
-    <div name='timeline' className='bg-gradient-to-b from-indigo-950 via-indigo-950 to-slate-950 w-full text-white md:h-screen'>
+    <div name='timeline' className='bg-gradient-to-b from-slate-950 via-slate-950 to-black w-full text-white md:h-screen'>
       <div className='max-w-screen-lg p-6 mx-auto flex flex-col justify-center w-full h-full'>
       <div className='pb-8'>
         <p className='text-4xl font-semibold inline border-b-4 border-cyan-400'>Experience & Education</p>

@@ -1,6 +1,6 @@
 import React from 'react'
-import {FaGithub, FaLinkedin, FaYahoo, FaFacebook} from 'react-icons/fa';
-// import {HiOutlineMail} from 'react-icons/hi';
+import {FaGithub, FaLinkedin, FaFacebook} from 'react-icons/fa';
+import {HiOutlineMail} from 'react-icons/hi';
 import {BiLogoGmail} from 'react-icons/bi'
 import {BsFillPersonLinesFill} from 'react-icons/bs';
 
@@ -41,7 +41,7 @@ const links = [
     id: 4, 
     child: (
       <> 
-        Yahoo <FaYahoo size={25}/> 
+        Email <HiOutlineMail size={25}/> 
       </>
     ),
     href: 'mailto:lenoxemperado@gmail.com',
@@ -53,7 +53,7 @@ const links = [
         Resume <BsFillPersonLinesFill size={25}/> 
       </>
     ),
-    href: '/ljte_resume.pdf',
+    href: '/LeonJamesEmperadoResume.pdf',
     style: 'rounded-tr-md ',
     download: true,
   },
