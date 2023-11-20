@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jte-web-portfolio/static/css/main.6a8a5103.css",
-    "main.js": "/jte-web-portfolio/static/js/main.b84d2aac.js",
+    "main.css": "/jte-web-portfolio/static/css/main.584ea5b0.css",
+    "main.js": "/jte-web-portfolio/static/js/main.73bace7b.js",
     "static/media/python.png": "/jte-web-portfolio/static/media/python.91072be85b01ef0961a8.png",
     "static/media/HeroImg5.png": "/jte-web-portfolio/static/media/HeroImg5.d6783ae8091c1a206876.png",
     "static/media/virtuallypossiblewebpage.png": "/jte-web-portfolio/static/media/virtuallypossiblewebpage.2e91a61695fb2786c884.png",
@@ -36,11 +36,11 @@
     "static/media/javascript.png": "/jte-web-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/revicons.woff": "/jte-web-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/jte-web-portfolio/index.html",
-    "main.6a8a5103.css.map": "/jte-web-portfolio/static/css/main.6a8a5103.css.map",
-    "main.b84d2aac.js.map": "/jte-web-portfolio/static/js/main.b84d2aac.js.map"
+    "main.584ea5b0.css.map": "/jte-web-portfolio/static/css/main.584ea5b0.css.map",
+    "main.73bace7b.js.map": "/jte-web-portfolio/static/js/main.73bace7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a8a5103.css",
-    "static/js/main.b84d2aac.js"
+    "static/css/main.584ea5b0.css",
+    "static/js/main.73bace7b.js"
   ]
 }
